@@ -1,0 +1,7 @@
+{
+  "queryStringParameters": {
+    "water_percent": "15",
+    "temperature_c": "42",
+    "humidity": "75"
+  }
+}
